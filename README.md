@@ -12,23 +12,23 @@
 
 ## 查找表 [⭐️](https://leetcode-cn.com/problem-list/KYFPLOXw)
 
-- [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
-- [389. 找不同](https://leetcode-cn.com/problems/find-the-difference/)
-- [350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)
+- [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)✅
+- [389. 找不同](https://leetcode-cn.com/problems/find-the-difference/)✅
+- [350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)✅
 
-## 滑动窗口 [⭐️](https://leetcode-cn.com/problem-list/SELtXHM4)
+## 滑动窗口（栈与队列） [⭐️](https://leetcode-cn.com/problem-list/SELtXHM4)
 
 - [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)
 - [438. 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)
-- [76. 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/)
-- [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
-- [209. 长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)
+- [76. 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/)✅
+- [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)✅
+- [209. 长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)✅
 
 ## 链表 [⭐️](https://leetcode-cn.com/problem-list/y3PLlGWQ)
 
-- [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)
-- [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
-- [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
+- [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)✅
+- [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)✅
+- [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)✅
 - [剑指 Offer 22. 链表中倒数第 k 个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)
 - [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
 - [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
@@ -45,7 +45,7 @@
 
 ## 二叉树 [⭐️](https://leetcode-cn.com/problem-list/nSzezqrS)
 
-- [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+- [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)✅
 - [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)
 - [450. 删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst/)
 - [112. 路径总和](https://leetcode-cn.com/problems/path-sum/)
