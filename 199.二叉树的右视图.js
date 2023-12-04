@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode.cn id=111 lang=javascript
+ * @lc app=leetcode.cn id=199 lang=javascript
  *
- * [111] 二叉树的最小深度
+ * [199] 二叉树的右视图
  */
 
 // @lc code=start
@@ -15,26 +15,23 @@
  */
 /**
  * @param {TreeNode} root
- * @return {number}
+ * @return {number[]}
  */
-var minDepth = function (root) {
-  if (!root) {
-    return 0;
-  }
+var rightSideView = function (root) {
+  if (!root) return [];
   let queue = [root];
-  let depth = 0;
+  let result = [];
   while (queue.length) {
     let len = queue.length;
-    depth += 1;
+    let level = [];
     for (let i = 0; i < len; i++) {
-      let node = queue.shift();
-      if (!node.left && !node.right) {
-        return depth;
-      }
+      const node = queue.shift();
+      level.push(node.val);
       node.left && queue.push(node.left);
       node.right && queue.push(node.right);
     }
+    result.push(level);
   }
-  return depth;
+  return result.map((arr) => arr[arr.length - 1]);
 };
 // @lc code=end

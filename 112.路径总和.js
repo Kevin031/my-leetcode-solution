@@ -18,18 +18,12 @@
  * @param {number} targetSum
  * @return {boolean}
  */
-var hasPathSum = function(root, targetSum) {
-  if (!root) return false
-  const traverse = (node, target) => {
-    if (!node) {
-      return false
-    }
-    if (!node.left && !node.right) {
-      return target === node.val
-    }
-    let remain = target - node.val
-    return traverse(node.left, remain) || traverse(node.right, remain)
-  }
-  return traverse(root, targetSum)
+var hasPathSum = function (root, targetSum) {
+  if (!root) return false;
+  if (!root.left && !root.right) return targetSum === root.val;
+  let remain = targetSum - root.val;
+  let left = hasPathSum(root.left, remain);
+  let right = hasPathSum(root.right, remain);
+  return left || right;
 };
 // @lc code=end

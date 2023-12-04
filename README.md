@@ -31,7 +31,7 @@
 - [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)✅
 - [剑指 Offer 22. 链表中倒数第 k 个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)
 - [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
-- [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
+- [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)✅
 - [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
 - [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
 
@@ -48,7 +48,7 @@
 - [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)✅
 - [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)
 - [450. 删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst/)
-- [112. 路径总和](https://leetcode-cn.com/problems/path-sum/)
+- [112. 路径总和](https://leetcode-cn.com/problems/path-sum/)✅
 - [113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/)
 - [437. 路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/)
 - [129. 求根节点到叶节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)
@@ -56,10 +56,10 @@
 - [404. 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/)
 - [110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)
 - [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
-- [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
-- [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
-- [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/)
-- [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
+- [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)✅
+- [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)✅
+- [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/)✅
+- [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)✅
 - [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
 - [100. 相同的树](https://leetcode-cn.com/problems/same-tree/)
 
@@ -90,11 +90,11 @@ DFS 的内容和 二叉树 没什么区别，有心的同学可以再刷一遍�
 - [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)
 - [45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)
 - [1306. 跳跃游戏 III](https://leetcode-cn.com/problems/jump-game-iii/)
-- [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
-- [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
-- [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/)
-- [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
-- [100. 相同的树](https://leetcode-cn.com/problems/same-tree/)
+- [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)✅
+- [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)✅
+- [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/)✅
+- [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)✅
+- [100. 相同的树](https://leetcode-cn.com/problems/same-tree/)✅
 
 ## 双指针 [⭐️](https://leetcode-cn.com/problem-list/ccZMKZDK)
 
@@ -103,7 +103,7 @@ DFS 的内容和 二叉树 没什么区别，有心的同学可以再刷一遍�
 - [240. 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)
 - [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/)
 - [455. 分发饼干](https://leetcode-cn.com/problems/assign-cookies/)
-- [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
+- [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)✅
 - [167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)
 - [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)
 - [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)
